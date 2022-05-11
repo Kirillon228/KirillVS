@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\Begin6\bin\Debug\Begin6.exe.config
+F:\My project Kirillon VS\SCEKirill001\Begin6\bin\Debug\Begin6.exe
+F:\My project Kirillon VS\SCEKirill001\Begin6\bin\Debug\Begin6.pdb
+F:\My project Kirillon VS\SCEKirill001\Begin6\obj\Debug\Begin6.csproj.AssemblyReference.cache
+F:\My project Kirillon VS\SCEKirill001\Begin6\obj\Debug\Begin6.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\Begin6\obj\Debug\Begin6.exe
+F:\My project Kirillon VS\SCEKirill001\Begin6\obj\Debug\Begin6.pdb

@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\Integro1\bin\Debug\Integro1.exe.config
+F:\My project Kirillon VS\SCEKirill001\Integro1\bin\Debug\Integro1.exe
+F:\My project Kirillon VS\SCEKirill001\Integro1\bin\Debug\Integro1.pdb
+F:\My project Kirillon VS\SCEKirill001\Integro1\obj\Debug\Integro1.csproj.AssemblyReference.cache
+F:\My project Kirillon VS\SCEKirill001\Integro1\obj\Debug\Integro1.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\Integro1\obj\Debug\Integro1.exe
+F:\My project Kirillon VS\SCEKirill001\Integro1\obj\Debug\Integro1.pdb

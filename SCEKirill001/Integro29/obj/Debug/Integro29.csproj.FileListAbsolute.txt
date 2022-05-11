@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\Integro29\bin\Debug\Integro29.exe.config
+F:\My project Kirillon VS\SCEKirill001\Integro29\bin\Debug\Integro29.exe
+F:\My project Kirillon VS\SCEKirill001\Integro29\bin\Debug\Integro29.pdb
+F:\My project Kirillon VS\SCEKirill001\Integro29\obj\Debug\Integro29.csproj.AssemblyReference.cache
+F:\My project Kirillon VS\SCEKirill001\Integro29\obj\Debug\Integro29.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\Integro29\obj\Debug\Integro29.exe
+F:\My project Kirillon VS\SCEKirill001\Integro29\obj\Debug\Integro29.pdb

@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\If25\bin\Debug\If25.exe.config
+F:\My project Kirillon VS\SCEKirill001\If25\bin\Debug\If25.exe
+F:\My project Kirillon VS\SCEKirill001\If25\bin\Debug\If25.pdb
+F:\My project Kirillon VS\SCEKirill001\If25\obj\Debug\If25.csproj.AssemblyReference.cache
+F:\My project Kirillon VS\SCEKirill001\If25\obj\Debug\If25.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\If25\obj\Debug\If25.exe
+F:\My project Kirillon VS\SCEKirill001\If25\obj\Debug\If25.pdb

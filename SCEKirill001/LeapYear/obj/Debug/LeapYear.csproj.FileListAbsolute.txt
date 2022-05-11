@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\LeapYear\bin\Debug\LeapYear.exe.config
+F:\My project Kirillon VS\SCEKirill001\LeapYear\bin\Debug\LeapYear.exe
+F:\My project Kirillon VS\SCEKirill001\LeapYear\bin\Debug\LeapYear.pdb
+F:\My project Kirillon VS\SCEKirill001\LeapYear\obj\Debug\LeapYear.csproj.AssemblyReference.cache
+F:\My project Kirillon VS\SCEKirill001\LeapYear\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\LeapYear\obj\Debug\LeapYear.exe
+F:\My project Kirillon VS\SCEKirill001\LeapYear\obj\Debug\LeapYear.pdb

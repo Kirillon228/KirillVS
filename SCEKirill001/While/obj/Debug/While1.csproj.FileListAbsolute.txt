@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\While\bin\Debug\While.exe.config
+F:\My project Kirillon VS\SCEKirill001\While\bin\Debug\While.exe
+F:\My project Kirillon VS\SCEKirill001\While\bin\Debug\While.pdb
+F:\My project Kirillon VS\SCEKirill001\While\obj\Debug\While1.csproj.AssemblyReference.cache
+F:\My project Kirillon VS\SCEKirill001\While\obj\Debug\While1.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\While\obj\Debug\While.exe
+F:\My project Kirillon VS\SCEKirill001\While\obj\Debug\While.pdb

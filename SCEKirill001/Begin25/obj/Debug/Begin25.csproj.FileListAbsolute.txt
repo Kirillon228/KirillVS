@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\Begin25\bin\Debug\Begin25.exe.config
+F:\My project Kirillon VS\SCEKirill001\Begin25\bin\Debug\Begin25.exe
+F:\My project Kirillon VS\SCEKirill001\Begin25\bin\Debug\Begin25.pdb
+F:\My project Kirillon VS\SCEKirill001\Begin25\obj\Debug\Begin25.csproj.AssemblyReference.cache
+F:\My project Kirillon VS\SCEKirill001\Begin25\obj\Debug\Begin25.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\Begin25\obj\Debug\Begin25.exe
+F:\My project Kirillon VS\SCEKirill001\Begin25\obj\Debug\Begin25.pdb

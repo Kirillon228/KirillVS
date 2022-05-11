@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\Boolean10\bin\Debug\Boolean10.exe.config
+F:\My project Kirillon VS\SCEKirill001\Boolean10\bin\Debug\Boolean10.exe
+F:\My project Kirillon VS\SCEKirill001\Boolean10\bin\Debug\Boolean10.pdb
+F:\My project Kirillon VS\SCEKirill001\Boolean10\obj\Debug\Boolean10.csproj.AssemblyReference.cache
+F:\My project Kirillon VS\SCEKirill001\Boolean10\obj\Debug\Boolean10.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\Boolean10\obj\Debug\Boolean10.exe
+F:\My project Kirillon VS\SCEKirill001\Boolean10\obj\Debug\Boolean10.pdb

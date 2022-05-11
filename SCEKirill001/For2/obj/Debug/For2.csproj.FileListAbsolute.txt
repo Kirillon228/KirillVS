@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\For2\bin\Debug\For2.exe.config
+F:\My project Kirillon VS\SCEKirill001\For2\bin\Debug\For2.exe
+F:\My project Kirillon VS\SCEKirill001\For2\bin\Debug\For2.pdb
+F:\My project Kirillon VS\SCEKirill001\For2\obj\Debug\For2.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\For2\obj\Debug\For2.exe
+F:\My project Kirillon VS\SCEKirill001\For2\obj\Debug\For2.pdb
+F:\My project Kirillon VS\SCEKirill001\For2\obj\Debug\For2.csproj.AssemblyReference.cache

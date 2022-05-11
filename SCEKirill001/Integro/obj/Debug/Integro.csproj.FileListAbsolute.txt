@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\Integro\bin\Debug\Integro.exe.config
+F:\My project Kirillon VS\SCEKirill001\Integro\bin\Debug\Integro.exe
+F:\My project Kirillon VS\SCEKirill001\Integro\bin\Debug\Integro.pdb
+F:\My project Kirillon VS\SCEKirill001\Integro\obj\Debug\Integro.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\Integro\obj\Debug\Integro.exe
+F:\My project Kirillon VS\SCEKirill001\Integro\obj\Debug\Integro.pdb
+F:\My project Kirillon VS\SCEKirill001\Integro\obj\Debug\Integro.csproj.AssemblyReference.cache

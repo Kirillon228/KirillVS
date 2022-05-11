@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\If15\bin\Debug\If15.exe.config
+F:\My project Kirillon VS\SCEKirill001\If15\bin\Debug\If15.exe
+F:\My project Kirillon VS\SCEKirill001\If15\bin\Debug\If15.pdb
+F:\My project Kirillon VS\SCEKirill001\If15\obj\Debug\If15.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\If15\obj\Debug\If15.exe
+F:\My project Kirillon VS\SCEKirill001\If15\obj\Debug\If15.pdb
+F:\My project Kirillon VS\SCEKirill001\If15\obj\Debug\If15.csproj.AssemblyReference.cache

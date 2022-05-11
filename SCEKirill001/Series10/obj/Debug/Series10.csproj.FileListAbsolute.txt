@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\Series10\obj\Debug\Series10.csproj.AssemblyReference.cache
+F:\My project Kirillon VS\SCEKirill001\Series10\obj\Debug\Series10.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\Series10\bin\Debug\Series10.exe.config
+F:\My project Kirillon VS\SCEKirill001\Series10\bin\Debug\Series10.exe
+F:\My project Kirillon VS\SCEKirill001\Series10\bin\Debug\Series10.pdb
+F:\My project Kirillon VS\SCEKirill001\Series10\obj\Debug\Series10.exe
+F:\My project Kirillon VS\SCEKirill001\Series10\obj\Debug\Series10.pdb

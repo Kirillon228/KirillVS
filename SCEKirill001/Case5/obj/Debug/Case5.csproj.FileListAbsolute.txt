@@ -1,0 +1,7 @@
+F:\My project Kirillon VS\SCEKirill001\Case5\bin\Debug\Case5.exe.config
+F:\My project Kirillon VS\SCEKirill001\Case5\bin\Debug\Case5.exe
+F:\My project Kirillon VS\SCEKirill001\Case5\bin\Debug\Case5.pdb
+F:\My project Kirillon VS\SCEKirill001\Case5\obj\Debug\Case5.csproj.AssemblyReference.cache
+F:\My project Kirillon VS\SCEKirill001\Case5\obj\Debug\Case5.csproj.CoreCompileInputs.cache
+F:\My project Kirillon VS\SCEKirill001\Case5\obj\Debug\Case5.exe
+F:\My project Kirillon VS\SCEKirill001\Case5\obj\Debug\Case5.pdb
