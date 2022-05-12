@@ -12,67 +12,46 @@ namespace Series40
         {
             Console.Write("Введите k:");
             int  NumberSet= Convert.ToInt32(Console.ReadLine());
-
-            int terPast = 0;
-            int counterPresent = 0;
-            int counterFuture = 0;
-            int counterNumber = 0;
-            bool pass = false;
-            int answer = 0;
-                     
-
-            for (int i = 1; i <= NumberSet; i++) 
+                       
+            for (int i = 0; i < NumberSet; i++) 
             {
-                for (int j = 0; ; j++) 
+                Console.Write("Введите числа:");
+                int numbers1 = Convert.ToInt32(Console.ReadLine());
+
+                Console.Write("Введите числа:");
+                int numbers2 = Convert.ToInt32(Console.ReadLine());
+
+                bool isgrowing = numbers1 < numbers2;
+                int answer = 2;
+                int answer2 = 0;
+
+                for (int j = 2; ;j++) 
                 {
                     Console.Write("Введите числа:");
-                    int Number = Convert.ToInt32(Console.ReadLine());
-                   
-                    if (Number == 0)
+                    int a = Convert.ToInt32(Console.ReadLine());
+                    if (a == 0)
                     {
                         break;
                     }
-                                                                              
-                }
-                if (i % 3 == 1)
-                {
 
-                    counterPast = counterNumber;
-                }
-                else if (i % 3 == 2)
-                {
-                    counterPresent = counterNumber;
-                }
-                else if (i % 3 == 0)
-                {
-                    counterFuture = counterNumber;
-                }
+                    bool isgrowingnow = numbers2 < a;
 
-                
-                 if (counterPast < counterFuture&&
-                        counterPast < counterPresent ^
-                        counterPast > counterFuture &&
-                        counterPast > counterPresent ^
-                        counterPresent < counterPast &&
-                        counterPresent < counterFuture ^
-                        counterPresent > counterPast &&
-                        counterPresent > counterFuture ^
-                        counterFuture < counterPast &&
-                        counterFuture < counterPresent ^
-                        counterFuture > counterPast &&
-                        counterFuture > counterPresent 
-                )
-                        
-                {
-                    NumberSet = answer;
+                    if (isgrowing == isgrowingnow && answer2 == 0) 
+                    {
+                        answer2 = j-1;
+                    }
+                    else
+                    {
+                        answer++;
+                    }
+
+                    numbers2 = a;
+                    isgrowing = isgrowingnow;
                 }
-
-
-                counterNumber = 0;
-
-                pass = true;
+                int c = answer2 == 0 ? answer : answer2;
+                Console.WriteLine($"Ответ:{c}");
             }
-            Console.WriteLine($"Ответ:{answer}");
+
             Console.Read();
         }
     }
