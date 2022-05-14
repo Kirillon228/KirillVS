@@ -1,0 +1,6 @@
+F:\Git\KirillVS\SCEKirill001\Proc6\bin\Debug\Proc6.exe.config
+F:\Git\KirillVS\SCEKirill001\Proc6\bin\Debug\Proc6.exe
+F:\Git\KirillVS\SCEKirill001\Proc6\bin\Debug\Proc6.pdb
+F:\Git\KirillVS\SCEKirill001\Proc6\obj\Debug\Proc6.csproj.CoreCompileInputs.cache
+F:\Git\KirillVS\SCEKirill001\Proc6\obj\Debug\Proc6.exe
+F:\Git\KirillVS\SCEKirill001\Proc6\obj\Debug\Proc6.pdb
