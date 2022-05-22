@@ -15,7 +15,7 @@ namespace Proc20
             Console.Write("Введите основание треугольника:");
             double a = Convert.ToDouble(Console.ReadLine());
 
-            Console.Write("Введите основание высоту");
+            Console.Write("Введите высоту");
             double h = Convert.ToDouble(Console.ReadLine());
 
             double PerimeterTriangle = 0;
