@@ -1,0 +1,7 @@
+F:\Git\KirillVS\SCEKirill001\Proc30\bin\Debug\Proc30.exe.config
+F:\Git\KirillVS\SCEKirill001\Proc30\bin\Debug\Proc30.exe
+F:\Git\KirillVS\SCEKirill001\Proc30\bin\Debug\Proc30.pdb
+F:\Git\KirillVS\SCEKirill001\Proc30\obj\Debug\Proc30.csproj.AssemblyReference.cache
+F:\Git\KirillVS\SCEKirill001\Proc30\obj\Debug\Proc30.csproj.CoreCompileInputs.cache
+F:\Git\KirillVS\SCEKirill001\Proc30\obj\Debug\Proc30.exe
+F:\Git\KirillVS\SCEKirill001\Proc30\obj\Debug\Proc30.pdb
