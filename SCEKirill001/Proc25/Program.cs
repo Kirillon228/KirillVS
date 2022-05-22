@@ -14,22 +14,14 @@ namespace Proc25
             {
                 Console.Write("Введите число:");
                 int number = Convert.ToInt32(Console.ReadLine());
-                double c = 0;
-                bool answer = false;
-
-                c = IsSquare(number);
-                if (c == 0)
-                {
-                    answer = true;
-                }
-                Console.WriteLine(answer);
+               
+                Console.WriteLine(IsSquare(number));
             }
             Console.Read();
         }
-        private static double IsSquare(int number)
+        private static bool IsSquare(int number)
         {
-            double c = 0;
-            return c = (Math.Sqrt(number)) % 1;
+            return (Math.Sqrt(number)) % 1 == 0;           
         }
     }
 }
