@@ -23,32 +23,12 @@ namespace Proc35
         private static int Fac2(int n)
         {
             int answer = 1;
-            int answer4 = 1;
-            int answer2 = 2;
-            int answer3 = 2;
-            
-            for (int i = 2; i < n; i += 2)  
-            {
-                if (n % 2 == 0)
-                {
-                    answer2 = answer2 * (answer3 += 2);
-                    
-                }
-                else
-                {
-                    answer = answer * (answer4 += 2);
 
-                }
-            }
-            if (n % 2 == 0)
+            for (int i = n % 2 == 0 ? 2 : 1; i <= n; i += 2)
             {
-                return answer2;
+                answer = answer * i;
             }
-            else
-            {
-                return answer;
-            }
-           
+            return answer;          
         }
 
 
