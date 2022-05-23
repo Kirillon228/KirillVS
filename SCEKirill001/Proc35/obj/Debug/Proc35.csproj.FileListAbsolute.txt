@@ -1,0 +1,7 @@
+F:\Git\KirillVS\SCEKirill001\Proc35\bin\Debug\Proc35.exe.config
+F:\Git\KirillVS\SCEKirill001\Proc35\bin\Debug\Proc35.exe
+F:\Git\KirillVS\SCEKirill001\Proc35\bin\Debug\Proc35.pdb
+F:\Git\KirillVS\SCEKirill001\Proc35\obj\Debug\Proc35.csproj.AssemblyReference.cache
+F:\Git\KirillVS\SCEKirill001\Proc35\obj\Debug\Proc35.csproj.CoreCompileInputs.cache
+F:\Git\KirillVS\SCEKirill001\Proc35\obj\Debug\Proc35.exe
+F:\Git\KirillVS\SCEKirill001\Proc35\obj\Debug\Proc35.pdb
