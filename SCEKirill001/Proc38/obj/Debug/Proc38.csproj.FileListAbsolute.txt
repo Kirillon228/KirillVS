@@ -1,0 +1,7 @@
+F:\Git\KirillVS\SCEKirill001\Proc38\bin\Debug\Proc38.exe.config
+F:\Git\KirillVS\SCEKirill001\Proc38\bin\Debug\Proc38.exe
+F:\Git\KirillVS\SCEKirill001\Proc38\bin\Debug\Proc38.pdb
+F:\Git\KirillVS\SCEKirill001\Proc38\obj\Debug\Proc38.csproj.AssemblyReference.cache
+F:\Git\KirillVS\SCEKirill001\Proc38\obj\Debug\Proc38.csproj.CoreCompileInputs.cache
+F:\Git\KirillVS\SCEKirill001\Proc38\obj\Debug\Proc38.exe
+F:\Git\KirillVS\SCEKirill001\Proc38\obj\Debug\Proc38.pdb
