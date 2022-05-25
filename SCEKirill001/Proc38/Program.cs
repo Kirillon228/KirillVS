@@ -21,16 +21,10 @@ namespace Proc38
                 Console.WriteLine($"Ответ:{Power2(a,n)}");
             }
             Console.Read();
-
         }
         private static double Power2(double a,int n)
-        {
-            a = Math.Pow(a, Math.Abs(n));
-            if (n < 0)
-            {
-                a = 1 / a;
-            }       
-            return a;
+        { 
+           return Math.Pow(a,n);        
         }
     }
 }
