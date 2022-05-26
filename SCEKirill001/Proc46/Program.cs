@@ -18,30 +18,20 @@ namespace Proc46
             {
                 Console.Write("Введите число:");
                 int b = Convert.ToInt32(Console.ReadLine());
-               
-                    Console.WriteLine($"Нод:{Nod2(a, b)}");
-                Console.Read();
+
+                Console.WriteLine($"Нод:{Nod2(a, b)}");
+
             }
-             
+            Console.Read();
         }
-        private static int Nod2(int a,int b)
+        private static int Nod2(int a, int b)
         {
-           for(int i = 0; ; i++)
+            if (b != 0)
             {
-                if (a == 0 || b == 0) 
-                {
-                    return a + b;                   
-                }
-                
-                if (a > b) 
-                {
-                    a = a % b;
-                }
-                else
-                {
-                    b = b % a;
-                }
+                return Nod2(b, a % b);
+
             }
+            return a;
         }
     }
 }
