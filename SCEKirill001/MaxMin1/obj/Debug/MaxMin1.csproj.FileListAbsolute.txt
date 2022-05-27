@@ -1,0 +1,7 @@
+F:\Git\KirillVS\SCEKirill001\MaxMin1\bin\Debug\MaxMin1.exe.config
+F:\Git\KirillVS\SCEKirill001\MaxMin1\bin\Debug\MaxMin1.exe
+F:\Git\KirillVS\SCEKirill001\MaxMin1\bin\Debug\MaxMin1.pdb
+F:\Git\KirillVS\SCEKirill001\MaxMin1\obj\Debug\MaxMin1.csproj.AssemblyReference.cache
+F:\Git\KirillVS\SCEKirill001\MaxMin1\obj\Debug\MaxMin1.csproj.CoreCompileInputs.cache
+F:\Git\KirillVS\SCEKirill001\MaxMin1\obj\Debug\MaxMin1.exe
+F:\Git\KirillVS\SCEKirill001\MaxMin1\obj\Debug\MaxMin1.pdb
