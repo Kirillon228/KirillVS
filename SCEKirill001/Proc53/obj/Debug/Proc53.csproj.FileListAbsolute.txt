@@ -1,0 +1,7 @@
+F:\Git\KirillVS\SCEKirill001\Proc53\obj\Debug\Proc53.csproj.AssemblyReference.cache
+F:\Git\KirillVS\SCEKirill001\Proc53\obj\Debug\Proc53.csproj.CoreCompileInputs.cache
+F:\Git\KirillVS\SCEKirill001\Proc53\bin\Debug\Proc53.exe.config
+F:\Git\KirillVS\SCEKirill001\Proc53\bin\Debug\Proc53.exe
+F:\Git\KirillVS\SCEKirill001\Proc53\bin\Debug\Proc53.pdb
+F:\Git\KirillVS\SCEKirill001\Proc53\obj\Debug\Proc53.exe
+F:\Git\KirillVS\SCEKirill001\Proc53\obj\Debug\Proc53.pdb

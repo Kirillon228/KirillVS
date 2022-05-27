@@ -1,0 +1,7 @@
+F:\Git\KirillVS\SCEKirill001\Proc56\bin\Debug\Proc56.exe.config
+F:\Git\KirillVS\SCEKirill001\Proc56\bin\Debug\Proc56.exe
+F:\Git\KirillVS\SCEKirill001\Proc56\bin\Debug\Proc56.pdb
+F:\Git\KirillVS\SCEKirill001\Proc56\obj\Debug\Proc56.csproj.AssemblyReference.cache
+F:\Git\KirillVS\SCEKirill001\Proc56\obj\Debug\Proc56.csproj.CoreCompileInputs.cache
+F:\Git\KirillVS\SCEKirill001\Proc56\obj\Debug\Proc56.exe
+F:\Git\KirillVS\SCEKirill001\Proc56\obj\Debug\Proc56.pdb
