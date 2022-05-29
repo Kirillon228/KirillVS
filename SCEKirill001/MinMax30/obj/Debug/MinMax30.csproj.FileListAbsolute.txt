@@ -1,0 +1,7 @@
+F:\Git\KirillVS\SCEKirill001\MinMax30\bin\Debug\MinMax30.exe.config
+F:\Git\KirillVS\SCEKirill001\MinMax30\bin\Debug\MinMax30.exe
+F:\Git\KirillVS\SCEKirill001\MinMax30\bin\Debug\MinMax30.pdb
+F:\Git\KirillVS\SCEKirill001\MinMax30\obj\Debug\MinMax30.csproj.AssemblyReference.cache
+F:\Git\KirillVS\SCEKirill001\MinMax30\obj\Debug\MinMax30.csproj.CoreCompileInputs.cache
+F:\Git\KirillVS\SCEKirill001\MinMax30\obj\Debug\MinMax30.exe
+F:\Git\KirillVS\SCEKirill001\MinMax30\obj\Debug\MinMax30.pdb

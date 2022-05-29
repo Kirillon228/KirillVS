@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proc56", "Proc56\Proc56.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMin1", "MaxMin1\MaxMin1.csproj", "{A0494566-977C-4764-9308-E65200945BF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMax30", "MinMax30\MinMax30.csproj", "{24D1EA2C-E4EA-4E3A-B6DE-CC6E5E17960D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -465,6 +467,10 @@ Global
 		{A0494566-977C-4764-9308-E65200945BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0494566-977C-4764-9308-E65200945BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0494566-977C-4764-9308-E65200945BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D1EA2C-E4EA-4E3A-B6DE-CC6E5E17960D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D1EA2C-E4EA-4E3A-B6DE-CC6E5E17960D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D1EA2C-E4EA-4E3A-B6DE-CC6E5E17960D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D1EA2C-E4EA-4E3A-B6DE-CC6E5E17960D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
