@@ -1,0 +1,7 @@
+F:\Git\KirillVS\SCEKirill001\Array15\bin\Debug\Array15.exe.config
+F:\Git\KirillVS\SCEKirill001\Array15\bin\Debug\Array15.exe
+F:\Git\KirillVS\SCEKirill001\Array15\bin\Debug\Array15.pdb
+F:\Git\KirillVS\SCEKirill001\Array15\obj\Debug\Array15.csproj.AssemblyReference.cache
+F:\Git\KirillVS\SCEKirill001\Array15\obj\Debug\Array15.csproj.CoreCompileInputs.cache
+F:\Git\KirillVS\SCEKirill001\Array15\obj\Debug\Array15.exe
+F:\Git\KirillVS\SCEKirill001\Array15\obj\Debug\Array15.pdb
