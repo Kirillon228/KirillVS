@@ -37,7 +37,7 @@ namespace Array80
             {
                 array[i - 1] = array[i];                
             }
-            array[array.Length - 1] = 0;
+            array[array.Length - 1] = 0;          
             
             return array;
         }
