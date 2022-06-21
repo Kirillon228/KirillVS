@@ -1,0 +1,7 @@
+F:\Git\KirillVS\SCEKirill001\bum simulator\bin\Debug\bum simulator.exe.config
+F:\Git\KirillVS\SCEKirill001\bum simulator\bin\Debug\bum simulator.exe
+F:\Git\KirillVS\SCEKirill001\bum simulator\bin\Debug\bum simulator.pdb
+F:\Git\KirillVS\SCEKirill001\bum simulator\obj\Debug\bum simulator.csproj.AssemblyReference.cache
+F:\Git\KirillVS\SCEKirill001\bum simulator\obj\Debug\bum simulator.csproj.CoreCompileInputs.cache
+F:\Git\KirillVS\SCEKirill001\bum simulator\obj\Debug\bum simulator.exe
+F:\Git\KirillVS\SCEKirill001\bum simulator\obj\Debug\bum simulator.pdb
